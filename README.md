@@ -6,10 +6,10 @@ Chat(message) bubble UI, both ios and android.
 ![image](https://github.com/pop-xiaodong/react-native-message-bubble/blob/master/example/example_android.jpeg)
 
 ## Installation
-install react-native-message-bubble:
+install MssMaster/react-native-message-bubble:
 
 ```javascript
-npm install react-native-message-bubble --save
+npm install MssMaster/react-native-message-bubble --save
 ```
 
 ### Android
