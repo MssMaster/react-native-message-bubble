@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/karnikasingh/Desktop/ReactNativeProjects/GitLabFitness/Fitness-React/fitness/node_modules/react-native-message-bubble/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/karnikasingh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/63379974594a5d03d438cd34d24cf850/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/karnikasingh/Desktop/ReactNativeProjects/GitLabFitness/Fitness-React/fitness/node_modules/react-native-message-bubble/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/karnikasingh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/63379974594a5d03d438cd34d24cf850/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

@@ -1,18 +1,41 @@
 {
-  "name": "react-native-message-bubble",
-  "version": "1.0.6",
+  "_from": "react-native-message-bubble",
+  "_id": "react-native-message-bubble@1.0.6",
+  "_inBundle": false,
+  "_integrity": "sha1-9/epfH2kfwi+P0vq2h0cut/MXzk=",
+  "_location": "/react-native-message-bubble",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-message-bubble",
+    "name": "react-native-message-bubble",
+    "escapedName": "react-native-message-bubble",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-message-bubble/-/react-native-message-bubble-1.0.6.tgz",
+  "_shasum": "f7f7a97c7da47f08be3f4beada1d1cbadfcc5f39",
+  "_spec": "react-native-message-bubble",
+  "_where": "/Users/karnikasingh/Desktop/ReactNativeProjects/Fitness/Fitness-React/fitness",
+  "author": {
+    "name": "alphamao"
+  },
+  "bugs": {
+    "url": "https://github.com/pop-xiaodong/react-native-message-bubble/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
   "description": "react-native message bubble, both ios and android",
-  "main": "index.js",
   "directories": {
     "example": "example"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pop-xiaodong/react-native-message-bubble.git"
-  },
+  "homepage": "https://github.com/pop-xiaodong/react-native-message-bubble#readme",
   "keywords": [
     "react-native",
     "bubble",
@@ -22,10 +45,15 @@
     "message",
     "chat"
   ],
-  "author": "alphamao",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/pop-xiaodong/react-native-message-bubble/issues"
+  "main": "index.js",
+  "name": "react-native-message-bubble",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pop-xiaodong/react-native-message-bubble.git"
   },
-  "homepage": "https://github.com/pop-xiaodong/react-native-message-bubble#readme"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.6"
 }

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/karnikasingh/Desktop/ReactNativeProjects/GitLabFitness/Fitness-React/fitness/node_modules/react-native-message-bubble/android/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/karnikasingh/Desktop/ReactNativeProjects/GitLabFitness/Fitness-React/fitness/node_modules/react-native-message-bubble/android/src/debug/jniLibs"/></dataSet></merger>
